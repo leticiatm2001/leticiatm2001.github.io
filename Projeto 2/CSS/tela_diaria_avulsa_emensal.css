@@ -1,0 +1,36 @@
+main {
+    height: 100%;
+    background-color:white ;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;}
+
+    ul{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    h3{
+        font-size: 1.5rem;
+        text-align: center;
+        margin: 0.5rem;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+        font-family: 'Calistoga', cursive,'Crimson Text', serif;
+    }
+
+    li{
+        margin: 0.5rem;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+        font-family: 'Cabin','Ubuntu', sans-serif;
+
+    }
+
+    a{
+        text-decoration:none;
+        color:black
+    }
+    
+
