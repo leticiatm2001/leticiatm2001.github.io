@@ -1,0 +1,39 @@
+h4{
+    font-size: 1.2rem;
+    margin: 0.5rem;
+    text-align:center;
+}
+
+.confirmacao{
+    border-bottom: .1rem solid rgba(102,205,170);
+    font-family: 'Cabin','Ubuntu', sans-serif;
+}
+
+ul{
+    height: 100%;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+}
+
+li{
+    width: auto;
+    margin: 0.5rem;
+    background-color: rgba(102,205,170);
+    border: 0.1rem solid rgba(90,153,132, 0.8);
+    border-radius: 1rem ;
+    padding: 0.5rem;
+}
+
+.digitar{
+    position:fixed;
+    bottom:0;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    display: flex;  
+}
+a{
+    text-decoration:none;
+    color:black
+}
